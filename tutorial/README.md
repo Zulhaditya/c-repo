@@ -9,7 +9,7 @@ This repository contains my journey of learning the C programming language, cove
 ```
 ├── ArithmeticOperator.c       - Basic arithmetic operations
 ├── Array.c                    - Working with arrays
-├── BitWise.c                  - Bitwise operations
+├── BitWise.c                  - Bitwise operation
 ├── BreakContinue.c            - break and continue statements
 ├── Constant.c                 - Using constants
 ├── DataTypes.c                - Different C data types
